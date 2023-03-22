@@ -1,0 +1,6 @@
+Square gauge,266,119,267.665418227216,185.1143451143451,248,0,mph, ,false,false,false,Dashboard,speed,speed,10000,-20000,transparent,transparent,transparent,transparent,seashell,transparent,48,60,0,Nissan,Nissan,
+Round gauge,1584,-392,-66,rpm,6000,0,10000,-1000,-33,33,5500,1000,1000,20,-1000,0,2,36,0,0,5,1,6,1,0.5,0.4,0.33,0.25,20,5,93,8,5,1,transparent,transparent,transparent,transparent,whitesmoke,dimgray,yellow,dimgray,grey,transparent,transparent,transparent,transparent,transparent,true,false,false,Lato,30,50,10,false,Lato,RPM,transparent, ,, ,, ,,
+State gauge,730,-10,70,errorcodecount,1,file:///home/pi/Logo/MK-Dash/MIL-ON.png,qrc:/graphics/selectStateImage.png
+State gauge,2,-5,60,BatteryV,1,file:///home/pi/Logo/MK-Dash/Battery_Light.png,qrc:/graphics/selectStateImage.png
+Square gauge,199,119,-21,391,248,0,PSI, ,false,false,false,Dashboard,oilpres, ,10000,-20000,transparent,transparent,transparent,white,white,blue,25,70,0,Lato,Segment7,
+Square gauge,199,119,156,317,248,0,°F, ,false,false,false,Dashboard,Watertemp, ,10000,-20000,transparent,transparent,transparent,white,white,blue,26,70,0,Lato,Segment7,
